@@ -1,0 +1,16 @@
+accelerate
+aeiou
+auraloss
+einops
+nwt-pytorch
+pandas
+perceiver-pytorch
+prefigure
+pytorch_lightning
+scipy
+torch
+torchaudio
+tqdm
+transformers
+vector-quantize-pytorch
+wandb

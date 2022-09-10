@@ -2,15 +2,15 @@ from setuptools import setup, find_packages
 
 setup(
     name='audio-diffusion',
-    version='1.0.0',
+    version='1.0.1',
     url='https://github.com/zqevans/audio-diffusion.git',
     author='Zach Evans',
     packages=find_packages(),    
     install_requires=[
         'accelerate',
+        'aeiou',
         'auraloss',
         'einops',
-        'fairscale',
         'nwt-pytorch',
         'pandas',
         'perceiver-pytorch',
